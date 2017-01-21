@@ -785,7 +785,7 @@ Symbol['~' 12.00mil]
 	SymbolLine[15.00mil 35.00mil 20.00mil 35.00mil 8.00mil]
 	SymbolLine[20.00mil 35.00mil 25.00mil 30.00mil 8.00mil]
 )
-Attribute("import::src0" "/home/pablo/elec/interfaz_3.3_5.5/interface3_5.R0603.sch")
+Attribute("import::src0" "interface3_5.R0603.sch")
 Attribute("PCB::grid::unit" "mil")
 Attribute("PCB::grid::size" "1.00mil")
 Via[3204.00mil 2541.00mil 36.00mil 20.00mil 0.0000 20.00mil "" ""]
